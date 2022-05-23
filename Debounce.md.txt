@@ -1,0 +1,12 @@
+
+let debounceSearch;
+
+search.addEventListener("input", () => {
+   if (debounceSearch) {
+      clearTimeout(debounceSearch);
+   }
+
+   debounceSearch = setTimeout(() => {
+      searchData();
+   }, 800);
+});

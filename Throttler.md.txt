@@ -1,0 +1,20 @@
+let throttlePause;
+
+const throttle = (callback, time) => {
+   if (throttlePause) return;
+
+   throttlePause = true;
+   let init = Date.now();
+
+   setTimeout(() => {
+      callback();
+      throttlePause = false;
+   }, time);
+   let end = Date.now();
+
+   console.log(end - init);
+};
+
+const callback = () => {
+   console.log("Running now");
+};
