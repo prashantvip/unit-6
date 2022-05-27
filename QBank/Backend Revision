@@ -1,0 +1,15 @@
+1.What is Caching? How can you save money with Caching?
+A cache's primary purpose is to increase data retrieval performance by reducing the need to access the underlying 
+slower storage layer. Trading off capacity for speed, a cache typically stores a 
+subset of data transiently, in contrast to databases whose data is usually complete and durable.
+2.What is load balancing?
+Load balancing refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a 
+server farm or server pool.
+3.What is CAP Theorem?
+ It is a tool used to make system designers aware of the trade-offs while designing networked shared-data systems. 
+ The CAP theorem states that it is not possible to guarantee all three of the desirable properties – consistency, availability, 
+ and partition tolerance at the same time in a distributed system with data replication
+ 4.What is PACELC Theorem?
+ the PACELC theorem is an extension to the CAP theorem. It states that in case of network partitioning (P) in a distributed computer system, 
+ one has to choose between availability (A) and consistency (C) (as per the CAP theorem), 
+ but else (E), even when the system is running normally in the absence of partitions, one has to choose between latency (L) and consistency (C).

@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "title": "learn react",
+      "description": "keep going",
+      "status": "todo",
+      "tags": {
+        "official": "official",
+        "personal": "personal"
+      },
+      "subtask": [
+        "redux",
+        "thunk"
+      ],
+      "date": "2022-05-12",
+      "id": 1
+    },
+    {
+      "title": "do react",
+      "description": "lot of assignments pending",
+      "status": "inProgress",
+      "tags": {
+        "official": "official"
+      },
+      "subtask": [
+        "thunk",
+        "redux"
+      ],
+      "date": "2022-05-12",
+      "id": 2
+    },
+    {
+      "title": "go for run",
+      "description": "jogging",
+      "status": "done",
+      "tags": {
+        "other": "others"
+      },
+      "subtask": [
+        "2km"
+      ],
+      "date": "2022-05-10",
+      "id": 3
+    }
+  ]
+}

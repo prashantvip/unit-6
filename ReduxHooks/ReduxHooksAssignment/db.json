@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "firstName": "Swapnil",
+      "lastName": "Landage",
+      "email": "pablo123@gmail",
+      "password": "abc",
+      "confirmPassword": "abc",
+      "id": 1
+    },
+    {
+      "firstName": "shubham",
+      "lastName": "sher",
+      "email": "pablo123@gmail",
+      "password": "abc",
+      "confirmPassword": "abc",
+      "id": 2
+    },
+    {
+      "firstName": "promod",
+      "lastName": "bajaj",
+      "email": "pablo123@gmail",
+      "password": "abc",
+      "confirmPassword": "abc",
+      "id": 3
+    }
+   
+  ]
+ 
+}
