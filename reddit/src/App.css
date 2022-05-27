@@ -1,0 +1,25 @@
+
+.App {
+  margin-left: 1%;
+  margin-bottom: 4%;
+}
+.topSection {
+   display: flex;
+   /* margin-left: 10px; */
+}
+
+.topSection * {
+   margin-right: 15px;
+   font-size: 14px;
+   color: rgb(107, 107, 107);
+   cursor: pointer;
+}
+
+.topTOP {
+  margin-top: 1%;
+}
+
+.comment{
+  border-left: 2px solid lightgray;
+  padding-left: 5px;
+}
