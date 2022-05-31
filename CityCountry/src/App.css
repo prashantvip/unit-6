@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  margin-top: 2%;
+}
+
+.btn{
+  font-weight: bold !important;
+}
+
+.flex {
+  margin-bottom: 2%;
+}
+.flex select{
+  margin-right: 2%;
+}
+.flex label {
+  margin-right: 5px;
+}

@@ -1,0 +1,66 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "India"
+    },
+    {
+      "id": 2,
+      "name": "SriLanka"
+    },
+    {
+      "id": 3,
+      "name": "USA"
+    },
+    {
+      "countryName": "Maharashtra",
+      "id": 4
+    },
+    {
+      "countryName": "India",
+      "id": 5
+    },
+    {
+      "countryName": "Russia",
+      "id": 6
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "country": "India",
+      "city": "Delhi",
+      "population": 19000000
+    },
+    {
+      "id": 2,
+      "country": "SriLanka",
+      "city": "Colombo",
+      "population": 5600000
+    },
+    {
+      "id": 3,
+      "country": "USA",
+      "city": "Chicago",
+      "population": 2920000
+    },
+    {
+      "city": "Hingoli",
+      "country": "India",
+      "population": "120000",
+      "id": 6
+    },
+    {
+      "city": "Madras",
+      "country": "India",
+      "population": "19996",
+      "id": 7
+    },
+    {
+      "city": "xyx",
+      "country": "SriLanka",
+      "population": "1221515",
+      "id": 8
+    }
+  ]
+}
