@@ -1,0 +1,8 @@
+#box{
+    background-color: teal;
+    width:70%;
+    height:600px;
+    border:1px solid red;
+    margin: auto;
+    margin-top: 5%;
+}
