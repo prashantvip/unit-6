@@ -1,0 +1,21 @@
+.cart{
+    border:1px solid red;
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 15px;
+    display: flex;
+    gap: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 10px;
+}
+
+button{
+    margin: 10px;
+}
+.fbox{
+    /* border: 1px solid red; */
+    text-align: center;
+  
+}
